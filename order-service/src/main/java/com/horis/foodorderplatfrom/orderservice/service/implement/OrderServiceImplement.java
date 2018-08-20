@@ -1,6 +1,6 @@
 package com.horis.foodorderplatfrom.orderservice.service.implement;
 
-import com.horis.foodorderplatfrom.orderservice.domain.*;
+import com.horis.foodorderplatfrom.orderservice.domain.Order;
 import com.horis.foodorderplatfrom.orderservice.repository.OrderRepository;
 import com.horis.foodorderplatfrom.orderservice.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
