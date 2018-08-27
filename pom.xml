@@ -18,7 +18,15 @@
         <version>1.3.0.RELEASE</version>
     </parent>
 
-
+    <modules>
+        <module>restaurant-service</module>
+        <module>order-service</module>
+        <module>payment-distribution</module>
+        <module>payment-service</module>
+        <module>order-updater</module>
+        <module>hystrix-dashboard</module>
+        <module>eureka</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
